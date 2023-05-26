@@ -16,6 +16,7 @@ Apart from this, we also had to update where exactly the money was being spent a
 Data related to the BSE was also available where all the stock data present in the BSE and their company details were given. We were to study these details thoroughly and find out which company and stock would be ideal to invest in.
 
 One of the major limitations that we stumbled upon were that the numbers in the data weren't in the int format and hence, we had to convert them from string to int. Another difficulty faced was finding out what exact stock would be ideal based on financials, certain stock research and studies were done to find the same outcome. 
+
 ## Methodology
 
 First, a Google API was created in order to link the Google sheet with the Excel sheet in order to dynamically make changes to the Excel sheet. 
@@ -25,25 +26,26 @@ Soon after this was done, calculations were made as to where the persons money w
 The final part of the project was to study the BSE data and find out optimal statistics to conclude as to which sector would be the best to invest in for the future. It was also required to find out which 5 stocks would be the best for the person to invest in based on the money remaining.
 
 A dashboard was created using the KPIs to determine the stock data.
-## Screenshots
 
-![App Screenshot](https://1drv.ms/i/s!AjEiogpuKnNgjYEccqOVENtHddqEtg?e=1KQlbd) 
+## Summary
+
+![Screenshot (5)](https://github.com/PranavPramod18/Investment-Advisor/assets/132399432/cbd56128-f8c3-4d37-bd77-bd5fce3de226)
 
 In the above image, you can see the analysis done on companies and their stocks which show a positive and negative 3Yr Return. It also shows which sector/industry would be the best to invest in based on the same.
 
-![App Screenshot](https://1drv.ms/i/s!AjEiogpuKnNgjYEd8TqbEzPoCuASiw?e=St9XHR) 
+![Screenshot (6)](https://github.com/PranavPramod18/Investment-Advisor/assets/132399432/ec793a7f-f676-48ad-b404-42022091aa22)
 
 Analysis done on Median of the Enterprise Value (in Cr) and which Sector has the highest and lowest.
 
-![App Screenshot](https://1drv.ms/i/s!AjEiogpuKnNgjYEecpjpA7eQQjn8fw?e=TtnGc6) 
+![Screenshot (7)](https://github.com/PranavPramod18/Investment-Advisor/assets/132399432/6f0d5945-9bb5-48a5-9724-6bdeb1cc428a)
 
 Key parameters based on which the stock is studied tpo find out which would be the most ideal.
 
-![App Screenshot](https://1drv.ms/i/s!AjEiogpuKnNgjYEfTeendi3DdSQH0w?e=DA1NCC) 
+![Screenshot (8)](https://github.com/PranavPramod18/Investment-Advisor/assets/132399432/014725bb-2641-4824-b85f-6649f7ce0c03)
 
 Dashboard that uses certain KPIs to indicate best stock to invest in.
 
-![App Screenshot](https://1drv.ms/i/s!AjEiogpuKnNgjYEggqSBQH4eHtBogw?e=xHOGY5) 
+![Screenshot (9)](https://github.com/PranavPramod18/Investment-Advisor/assets/132399432/54bf76b8-ce37-4dd4-b071-c1aea99837ed)
 
 Analysis on Expenses of the person and where they are spending the money. Also shows which stock they must invest on based on the money available and, how risky said investment would be.
 
